@@ -1,0 +1,42 @@
+﻿"name": "Game News Mania",
+  "short_name": "Game News Mania",
+    "start_url": "https://gamenewsmania.blogspot.com/",
+      "display": "standalone",
+        "background_color": "#ffffff",
+          "theme_color": "#152536",
+            "description": "News and Social Media Update, Gaming News, eSports News, Tutorials and more",
+              "icons": [{
+                  "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjetV__uIbHNkYJhxmYEHWVR52hV9uIYIfeCaHZ3u8Evpuk6sphGpSsuPzVJW-RlzHHvhVDHz-f_OqPcb3PtzqCpRSkmxdh-ErsO8OVX-vD3hYepaVWooN5XdwgKupykk1_yjfhY6xbEKY0DYxxqx8oFhkbRg6JUyXQOrb-W4ZfBWche4C8AM4TNQ9C=s36' rel='apple-touch-icon",
+                      "sizes": "36x36",
+                          "type": "image/png",
+                              "density": "0.75"
+                                }, {
+                                    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhTB14U9rNHr3OJOmthyH3D23adyGsi9XJX2405vWfRPaEBot00-gKZZPUBTjo_k3qdgyBHmB5kDTomQjQPTYT4W74jpC-o9e1RXkQe-G9cpVECh_wnBRxTSMgzz09ZJfjfCwgSC1QZclq9hfAB4fmI_l7YI2H5pbhZkK7NN8BQTD4j1E6-3K5VesWS=s48' rel='apple-touch-icon' rel='apple-touch-icon",
+                                        "sizes": "48x48",
+                                            "type": "image/png",
+                                                "density": "1.0"
+                                                  }, {
+                                                      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjtV8ECFJTQ4HpkFi5pswUaG9FAvXKyJ8oaEwBTZD0t0dtFDe08Md3qurbGiucJxzyRNbihoq-mLSQTmuzdl0SdM-0DGPEHO5FO01BPpgInRTkhQqjyVIYypxZWA_km4_BjOV16m58RnGaYDpvxWgusQFgGNyzuzJsQ5rdHH8wirNDc_4bUsJmZRaxC=s72' rel='apple-touch-icon",
+                                                          "sizes": "72x72",
+                                                              "type": "image/png",
+                                                                  "density": "1.5"
+                                                                    }, {
+                                                                        "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjn1Dk9Fuh31XBMGk_sY3rOPl8V5UoeXWwFHbeKfto47YfwScsZtzfOeHZ3_7yqGVGeCoS-YzLWrzEGYYBp2BuUG2rboBBpbMDn_wrBMLIa4DpoZZ8aLuBCUdHgMBm1CEsyB3vNAr0zh1zVWzDZk5GjGubOxXR5EhhvS4KWJyfDbN7ZEK5E3rn8Ws_x=s96",
+                                                                            "sizes": "96x96",
+                                                                                "type": "image/png",
+                                                                                    "density": "2.0"
+                                                                                      }, {
+                                                                                          "src": "https://blogger.googleusercontent.com/img/a/AVvXsEg5p7siqu3MiGPQOhR507MpL6q4AkzXM7-wvEMi1GROiPitkZ7-vi50kIX1PVlGJ8PXMs6M9puXvq4iicuSxWaIMmaC0e1g8jtBnhmZxqHuaXKEDhm6GziNrpc8LRZ_x-VYGoFy-KZ_6EvgtPchqp7_RWMcPUhFvR4Ht0F0NJl5Zp2BgJaXbxm2CDsE=s144' rel='apple-touch-icon",
+                                                                                              "sizes": "144x144",
+                                                                                                  "type": "image/png",
+                                                                                                      "density": "3.0"
+                                                                                                        }, {
+                                                                                                            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiwPAQJ5i7fMv2MsH9XG-SUmplG7VTj72WJPb6uMqa2SBlqm7kYQZAQg4qnwK7KWrDBWUzUTrJDSc1KbpX7Gg_zQHEfrH2knKxWWffEGg3t913m5nY1i6YV2N2lpTcVzX2jUMRdm99nvXmAkxtR1HAJtDaC9Fmhf9hQNIu9uhmkRAB6UzZVyEoMbc_t=s192' rel='apple-touch-icon",
+                                                                                                                "sizes": "192x192",
+                                                                                                                    "type": "image/png",
+                                                                                                                        "density": "4.0"
+                                                                                                                          }, {
+                                                                                                                              "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjqqWVwfihxUGWyyw9XsdirAZTK7PFBEgSDVakGbw0woG96QszDbu-t0OFZdDnPQZVt4uF0q1IjBFwgviT_zUVL-T-BCWLTBvL2mf2FMOXTQqkaMXDra9Df5u7GdyOzw-7qw-Qy7mjTANs4xjvXrLeGGXvl3QXz1_jmN7aQBBJYJx4-uElQuDtn8K1t=s512' rel='apple-touch-icon",
+                                                                                                                                  "sizes": "512x512",
+                                                                                                                                      "type": "image/png",
+                                                                                                                                          "density": "5.0"
